@@ -1,32 +1,23 @@
-## Hi there 👋
-
-;+XxX$$$&&&&$$$$$$$$$$$$$$$$$$$$$$$
-;;XxxX;xX;x$&$$XX$$X$$$$$X$$$$$$$$$
-;;X+xX;xX;x$X$$$&&$&$$$X$$X$X;;;;;;
-;;X+xX;xX;xX$&XXX$$&&$$$XXX$X;;++++
-+;X+x$XXXx+X$;;++xX$X$&$XXX$X;;++++
-;xXxXX+++++Xx;;+++++++$$XXX$X;;+X++
-xXXXX$XX$$$X++xXx+XXXXXXXXX$X;;+x+X
-XxXXX$$$$$$++;++;;;++;xXXXX$X;;XXxx
-XXXXX$$$X$$X+;XXXXXXX++XXXX$X;;XXXX
-xXXXX$XX$XXXx+$++x++$xXXXXX$X;;XXXX
-X$X+X$x++++++XXXXXXX$$XXXXX$$;;;;;;
-+XXXX$$XXXXXX:+$$$&$+XXXXXX$$$X$$$$
-xXXXXX$X$$$$$X;;xxx+X+XXXXXXXX$XX$$
-xX$XXX$$$&&&$&X;x+++Xx$$$$$XXXXXXXX
-XXX$$$$$&&&$&&$x++++++X$$$$$$$XXXXX
-XX$$$$&$$$$&$$$$+;;+;;;$$$$$$$$xxx+
-xX$$$&&&$$&$&$$$X+;+;;;+$$$$$&$$X$$
-X$$$&&&&&$&&$&$$$x++;;;;X$$$$$&$XX$
-X$$&&&&&&&&&&&&$$$;;;;;;+$$$&$$&Xxx
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+                                          xabi@bilbao-dev
+                 @@@@@                    ---------------
+              @@@@*@%@@@                  OS: ...................... Linux, Windows, Android TV
+             @@@@@@@@#@@@@                Role: ..................... DevSecOps, AI Eng & AV Tech
+            @@@     @@@@@@@               Certs: .................... Power BI (PL-300), Elements of AI
+             @           @#               
+             @ @@@*  @@  @                Languages.Programming: .... Python, Bash, PowerShell, SQL
+             @  @   . @  @                DevSecOps.Cloud: .......... Docker, AWS, IaC, SAST, Ollama
+             %           *                Tech.AudioVisual: ......... GrandMA, Midas M32, Dante, AoIP
+                =@@@@@+ *                 
+              @        -@                 Languages.Real: ........... Spanish, Euskera (B2), English, French
+               @@@   @@@                  
+             @  *@@@@@-                   - Featured Projects
+           @@@@        #                  App: ...................... Dabil (Metro Bilbao & Bizkaia)
+       @@@@@*#@@  :    : @@+              Security: ................. ai-iac-validator, ai-sast-analyzer
+   %@@@@@#+%@@%@  -   -* @@@@@@@          Cloud/Ops: ................ ai-aws-guardrail, ai-container-sentinel
+    @@@**#*@=+*@@     .  +@%#@@@@@        
+     @@@%#%#@@##@@   .    @@@@@@@@        - Contact
+       @@@@@@@@@@@@        @@@@@          Email: .................... techyxabiiito@gmail.com
+          @@@@@@@@@        @@             LinkedIn: ................. [linkedin.com/in/xabi-aramendia](https://linkedin.com/in/xabi-aramendia)
+              *@@@@@                      GitHub: ................... [github.com/Xabiiito](https://github.com/Xabiiito)
+```
