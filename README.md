@@ -1,5 +1,5 @@
 ```text
-                                          techyxabiiito@gmail.com
+                                          Xabi Aramendia
                  @@@@@                    ---------------
               @@@@*@%@@@                  OS: ...................... Linux, Windows, Android TV
              @@@@@@@@#@@@@                Role: ..................... DevSecOps, AI Eng & AV Tech
